@@ -1,0 +1,10 @@
+Hi this my project for automation web
+My name is Radja Rabbani
+
+HOW TO USE :
+1. Download this file
+2. Setup the gradle for your IDE
+3. Runing test with Test.Feature in src/test/resources/features/Test.feature
+4. For the easy running you can use IDE Intellij
+
+Thank You
